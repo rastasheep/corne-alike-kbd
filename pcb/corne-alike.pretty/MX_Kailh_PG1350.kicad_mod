@@ -119,7 +119,7 @@
   (pad "1" smd rect (at -5.7 -5.08 180) (size 2.4 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 30404048-1069-48c3-8523-8949a8baaeef))
   (pad "1" smd rect (at 8.1 3.7 180) (size 2 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4f3d4b8a-88e8-4c7e-981b-f8a48c842eb4))
   (pad "2" smd rect (at -2.8 5.9 180) (size 1.8 2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f12bfa90-8722-4b42-8c63-bf8f90d03d35))
-  (pad "2" smd rect (at 2.8 5.9 180) (size 1.9 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0d62dde1-45bc-485b-a7f0-77a2ae61bd55))
+  (pad "2" smd rect (at 2.8 5.9 180) (size 1.8 2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0d62dde1-45bc-485b-a7f0-77a2ae61bd55))
   (pad "2" smd rect (at 5.7 -5.08 180) (size 2.4 2.4) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 1451d970-5f47-42b9-9cc4-e6361e052830))
   (pad "2" smd rect (at 6.9 -2.540001 180) (size 2.5 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 341372b1-5e66-4441-981b-7848dc71f9e9))
   (pad "2" smd rect (at 7.2 -5.1) (size 0.7 1.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 97a91e82-bbad-4dae-9d40-7f86d9de8f14))
