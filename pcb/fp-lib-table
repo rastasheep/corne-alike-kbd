@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "corne-alike")(type "KiCad")(uri "${KIPRJMOD}/corne-alike.pretty")(options "")(descr ""))
-)

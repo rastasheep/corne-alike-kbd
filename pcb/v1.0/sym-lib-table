@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "corne-alike")(type "KiCad")(uri "${KIPRJMOD}/corne-alike.kicad_sym")(options "")(descr ""))
+)
