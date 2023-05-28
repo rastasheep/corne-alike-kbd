@@ -19,6 +19,7 @@ Split keyboard with 3x6 column staggered keys, 3 keys thumb cluster, inspired by
 ## Versions
 
 - **v1.0** - Initial version, Choc v1 switches, full feature set
+- **v1.1** - Bug fix version, flip battery connector polarity, fix power input pin
 
 ## License Information
 
